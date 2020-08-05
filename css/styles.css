@@ -1,0 +1,15 @@
+h2.intro {
+color: aqua;
+}
+p.intro {
+  color: grey;
+}
+img.intro{
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
