@@ -13,3 +13,6 @@ img.intro{
   margin-right: auto;
   width: 50%;
 }
+.important{
+  color: red;
+}
